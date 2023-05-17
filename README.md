@@ -15,4 +15,4 @@ From the given dataset, we will calculate 3 main indexes: Recency, Frequency, Mo
 6. Evaluate 3 models
 7. Analyse the clustering result of the best model
 
-*The report is written in Vietnamese. In summary, we clustered in 2 circumstances: with outliers and without outliers. The evaluation showed that clustering with outliers gives better result. However, based on our professor's feedback, the way we determined outliers was incorrect (we apply 1 range (of the M - monetary) for the whole 3 indexes R,F,M, which was considered inappropriate for the 2 left). I'm on the way of correct it, and will update the report, if possible 🤗*
+*The report is written in Vietnamese. In summary, we clustered in 2 circumstances: with outliers and without outliers. The evaluation showed that clustering with outliers gives better result. However, based on our professor's feedback, the way we determined outliers was incorrect (we apply 1 range (of the M - monetary) for the whole 3 indexes R,F,M, which was considered inappropriate for the 2 left). I'm on the way of correcting it, and will update the report, if possible 🤗.*
